@@ -22,8 +22,7 @@ Steps to get any paid course for free in Coursera via applying Financial Aid. Yo
 
 <br>
 
-
-#### 6. Fil the form and click on submit button.
+#### 6. Fil the form and click on submit button. (You can always Google if you can't fill the answers of the questions)
 <br>
 
 ![](images/4.png)
