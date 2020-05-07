@@ -1,5 +1,5 @@
 # Financial-Aid-Coursera
-Steps to get any paid course for <b>free</b> in Coursera via applying Financial Aid. You will also get a certificate after completion of course that you can share on platforms like Linkedin.
+Steps to get any paid course for <b>free</b> in Coursera via applying Financial Aid. You will also get a certificate after completion of course.
 
 <b>Steps</b> <br>
 #### 1. Open the website in a new tab -> https://www.coursera.org/
